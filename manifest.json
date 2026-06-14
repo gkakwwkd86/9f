@@ -1,0 +1,25 @@
+{
+  "short_name": "회의실 예약",
+  "name": "9층 소회의실 예약 시스템",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1A1D2E",
+  "background_color": "#F0F2F7",
+  "orientation": "portrait",
+  "lang": "ko",
+  "description": "9층 소회의실 예약 관리 앱"
+}
